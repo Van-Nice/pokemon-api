@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "description": "Api for pokemon generations 1-6",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Van-Nice/pokemon-api.git"
+  },
+  "keywords": [
+    "pokemon",
+    "api"
+  ],
+  "author": "Wilson Van Nice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Van-Nice/pokemon-api/issues"
+  },
+  "homepage": "https://github.com/Van-Nice/pokemon-api#readme"
+}
