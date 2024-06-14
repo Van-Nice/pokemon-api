@@ -4,6 +4,7 @@
   "description": "Api for pokemon generations 1-6",
   "main": "index.js",
   "scripts": {
+    "start" : "node index.js",
     "test": "node --test"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Van-Nice/pokemon-api/issues"
   },
-  "homepage": "https://github.com/Van-Nice/pokemon-api#readme"
+  "homepage": "https://github.com/Van-Nice/pokemon-api#readme",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  }
 }
